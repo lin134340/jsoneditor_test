@@ -1,11 +1,13 @@
-<script setup lang="ts">
-import JSONEditor from './components/JSONEditor.vue'
-</script>
-
 <template>
-  <JSONEditor/>
+  <div>
+    <VueJSONEditor />
+  </div>
 </template>
 
-<style scoped>
+<script lang="ts" setup>
+import VueJSONEditor from "./components/VueJSONEditor.vue";
 
-</style>
+
+</script>
+
+<style></style>

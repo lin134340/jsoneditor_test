@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "vanilla-jsoneditor": "^0.17.3",
     "vue": "^3.2.47",
     "vue3-ts-jsoneditor": "^2.8.6"
   },
